@@ -1,0 +1,103 @@
+.formularioSocios{
+    max-width: 600px;    
+    margin: 3em;
+    border: lightgray solid 3px;
+    border-radius: 10px;
+    padding: 2em;
+}
+
+.formulariosDePagos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.formulariosDeIngreso{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.formularioPagos{
+    display: flex;
+    max-width: 600px;    
+    margin: 3em;
+    border: lightgray solid 3px;
+    border-radius: 10px;
+    padding: 2em;
+}
+
+.formularioIngreso{
+    display: flex;
+    max-width: 600px;    
+    margin: 3em;
+    border: lightgray solid 3px;
+    border-radius: 10px;
+    padding: 2em;
+}
+
+
+.formularioCuotas{
+    display: flex;
+    max-width: 600px;    
+    margin: 3em;
+    border: lightgray solid 3px;
+    border-radius: 10px;
+    padding: 1em;
+}
+
+
+.formularioIngresar{
+    display: flex;
+    max-width: 600px;    
+    margin: 3em;
+    border: lightgray solid 3px;
+    border-radius: 10px;
+    padding: 1em;
+}
+
+.pieSocios {
+    max-width: 600px;    
+    margin: 3em;
+    border: lightgray solid 3px;
+    border-radius: 10px;
+    padding: 1em;
+}
+
+.piePagos {
+    max-width: 600px;    
+    margin: 3em;
+    border: lightgray solid 3px;
+    border-radius: 10px;
+    padding: 1em;
+}
+
+.pieEventos {
+    max-width: 600px;    
+    margin: 3em;
+    border: lightgray solid 3px;
+    border-radius: 10px;
+    padding: 1em;
+   }
+
+#cuotasPagas {
+    max-width: 600px;
+
+    margin: auto; 
+}
+
+.tablaPagos {
+    max-width: 600px;    
+    height: 1em;
+    margin: 1em auto;     
+    border-radius: 1px;
+    padding: 0.5em;
+}
+
+.tablaIngreso {
+    max-width: 600px;    
+    height: 1em;
+    margin: 1em auto;     
+    border-radius: 1px;
+    padding: 0.5em;
+}
